@@ -19,7 +19,7 @@ Atualmente estou cursando <strong>Análise e Desenvolvimento de Sistemas</strong
 🔸 **[Leitor de XML de NF-e](https://github.com/Pedrao01/Relatorio_de_XML_para_EXCEL.git)**  
 Automação para leitura de arquivos XML de notas fiscais eletrônicas e geração de relatórios organizados.
 
-🔸 **[Gerenciamento de Alunos - Academia](https://github.com/PedroDuarte/gerenciamento_alunos_academia)**  
+🔸 **[Gerenciamento de Alunos - Academia](https://github.com/Pedrao01/gerenciamento_alunos_academia.git)**  
 Sistema para controle de alunos, matrículas e planos de uma academia, com interface intuitiva e banco de dados.
 
 ---
