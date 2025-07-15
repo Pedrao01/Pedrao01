@@ -28,7 +28,7 @@ Sistema para controle de alunos, matrículas e planos de uma academia, com inter
 - [LinkedIn](https://www.linkedin.com/in/pedroduarte-dev/)
 - Email: dev.pedroduartee@gmail.com
 
-  [![card](https://github-readme-stats.vercel.app/api?username=Pedrao01&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![card](https://github-readme-stats.vercel.app/api?username=Pedrao01&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
