@@ -25,8 +25,8 @@ Sistema para controle de alunos, matrículas e planos de uma academia, com inter
 ---
 
 ### 📫 Entre em contato comigo
-- [LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione o link real)*
-- Email: pedrosilva19283@gmail.com *(se quiser divulgar)*
+- [LinkedIn](linkedin.com/in/pedroduarte-dev) *(adicione o link real)*
+- Email: dev.pedroduartee@gmail.com *(se quiser divulgar)*
 
 ---
 
