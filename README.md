@@ -43,7 +43,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pedrao01&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedrao01&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrao01&layout=compact&theme=tokyonight" alt="Top Langs"/>
 </p>
 
 ---
