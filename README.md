@@ -51,9 +51,7 @@
 
 ### 🔥 GitHub Streak
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrao01&theme=tokyonight&hide_border=true" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Pedrao01&theme=dark&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ---
 
