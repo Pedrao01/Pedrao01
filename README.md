@@ -28,6 +28,8 @@
 ---
 
 ### 📌 Projetos em destaque
+- [`SIstema de Registre e Login`](https://github.com/Pedrao01/Sistema-de-Registro-e-Loggin.git)
+  Os dados dos usuários são armazenados em um arquivo CSV (database.csv), simulando um banco de dados simples.
 
 - 🔍 [`Leitor_de_XML_de_NF-e`](https://github.com/Pedrao01/Leitor_de_XML_de_NF-e)  
   Sistema em Python para leitura de arquivos XML de NF-e com extração de dados e geração de relatórios em Excel.
