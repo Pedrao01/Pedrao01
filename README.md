@@ -1,65 +1,59 @@
-<h1 align="center">Pedro Duarte</h1>
-<h3 align="center">Backend Developer · ADS Student</h3>
- 
-<p align="center">
-  <a href="mailto:dev.pedroduartee@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-dev.pedroduartee%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pedrao01">
-    <img src="https://img.shields.io/badge/GitHub-Pedrao01-181717?style=flat-square&logo=github&logoColor=white"/>
-  </a>
+<div align="center">
+Olá, eu sou Pedro Duarte 👋
+Desenvolvedor Backend apaixonado por resolver problemas com tecnologia e transformar ideias em soluções reais.
+Estudante de Análise e Desenvolvimento de Sistemas · Backend em formação
+Mostrar Imagem
+Mostrar Imagem
+Mostrar Imagem
+</div>
+
+🧠 Sobre mim
+
+🚀 Buscando evolução constante no desenvolvimento backend
+🔧 Foco atual: Python, Django, Flask e PostgreSQL
+🧩 Curioso por boas práticas, arquitetura de software e automação
+📚 Cursando Análise e Desenvolvimento de Sistemas
+
+---
+
+🛠️ Tecnologias & Ferramentas
+Linguagens
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
----
- 
-## Sobre mim
- 
-Desenvolvedor back-end focado em construir APIs robustas e bem arquitetadas. Cursando Análise e Desenvolvimento de Sistemas, com interesse em arquitetura de software, boas práticas de código e sistemas escaláveis.
- 
----
- 
-## 🛠 Tech Stack
- 
-**Linguagens**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
- 
-**Frameworks**
- 
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
- 
-**Ferramentas**
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
- 
----
- 
-## ⚙️ Hard Skills
- 
-- Arquitetura de Software
-- Clean Code
-- Programação Orientada a Objetos (POO)
----
- 
-## 🚀 Projetos
- 
-| Projeto | Descrição | Status |
-|---|---|---|
-| [**Web-Site Gym**](https://github.com/Pedrao01/Web-Site_Gym) | Website completo para academia com backend Django e frontend React | 🔧 Em andamento |
-| [**Finance API**](https://github.com/Pedrao01/finance-api) | API de finanças pessoais com Django REST Framework, JWT e PostgreSQL | 🔧 Em andamento |
-| [**Postly API**](https://github.com/Pedrao01/postly-api) | API de publicações RESTful | ✅ Finalizado |
- 
----
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedrao01&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrao01&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="150"/>
+Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
+Ferramentas & Práticas
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clean%20Code-239120?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/POO-6A0DAD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arquitetura%20de%20Software-0A66C2?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+🚀 Projetos em destaque
+🗂 Projeto📋 DescriçãoStatus🏋️ Web-Site GymWebsite completo para academia com backend Django REST Framework e frontend React + Tailwind🔧 Em andamento💰 Finance APIAPI REST de finanças pessoais com DRF, SimpleJWT, PostgreSQL e Docker🔧 Em andamento📝 Postly APIAPI RESTful de publicações com autenticação e CRUD completo✅ Finalizado🧾 Leitor de XML de NF-eLeitura de NF-e em XML com extração de dados e geração de relatórios em Excel✅ Finalizado🎓 Gerenciamento AcademiaSistema de cadastro, atualização e acompanhamento de frequência de alunos✅ Finalizado🧱 Aprendizado POORepositório com práticas de POO em Python: classes, herança, encapsulamento e mais✅ Finalizado
+
+---
+
+📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedrao01&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrao01&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrao01&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
@@ -69,10 +63,6 @@ Desenvolvedor back-end focado em construir APIs robustas e bem arquitetadas. Cur
   <img src="https://raw.githubusercontent.com/Pedrao01/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
----
-
-### 💬 Frase Favorita
-
-> *“Luck favors those who try.”* ⚡
-
----
+<div align="center">
+  <i>Sempre aprendendo, sempre construindo.</i>
+</div>
