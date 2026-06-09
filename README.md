@@ -58,7 +58,7 @@
 
 | 🗂 Projeto | 📋 Descrição | Status |
 |---|---|:---:|
-| 🏋️ [**Web-Site Gym**](https://github.com/Pedrao01/Web-Site_Gym) | Website completo para academia com backend Django REST Framework e frontend React + Tailwind | 🔧 Em andamento |
+| 🏋️ [**Web-Site Gym**](https://github.com/Pedrao01/Gym_Project) | Website completo para academia com backend Django REST Framework e frontend React + Tailwind | 🔧 Em andamento |
 | 💰 [**Finance API**](https://github.com/Pedrao01/finance-api) | API REST de finanças pessoais com DRF, SimpleJWT, PostgreSQL e Docker | 🔧 Em andamento |
 | 📝 [**Postly API**](https://github.com/Pedrao01/postly-api) | API RESTful de publicações com autenticação e CRUD completo | ✅ Finalizado |
 | 🧾 [**Leitor de XML de NF-e**](https://github.com/Pedrao01/Leitor_de_XML_de_NF-e) | Leitura de NF-e em XML com extração de dados e geração de relatórios em Excel | ✅ Finalizado |
